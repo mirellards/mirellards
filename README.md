@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Information Systems student  <br>📊 Interested in Data and Analytics<br>💻 Currently learning SQL, Excel Python and Data Analysis</p>
+<p align="left">🎓 Information Systems student  <br>📊 Interested in Data and Analytics<br>💻 Currently learning SQL, Excel, Power BI and Data Analysis</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- Data analysis skills<br>- Database querying<br>- Excel dashboards</p>
+<p align="left">- Data analysis skills<br>- Database querying<br>- Power BI dashboards</p>
 
 ###
 
