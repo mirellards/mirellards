@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- SQL (MySQL)<br>- Excel<br>- HTML, CSS, JavaScript<br>- C#, ASP.NET</p>
+<p align="left">- SQL (MySQL)<br>- Excel<br>- Power BI<br>- HTML, CSS, JavaScript<br>- C#, ASP.NET</p>
 
 ###
 
